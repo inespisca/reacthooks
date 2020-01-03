@@ -1,3 +1,5 @@
+Deployed on Netlify: https://infallible-haibt-377cc1.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
